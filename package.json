@@ -1,0 +1,18 @@
+{
+	"name": "popfile",
+	"description": "Implementations for \"popping\" and \"bubbling\" .pop files",
+	"author": "Nick Allred <nallred91@gmail.com>",
+	"repository": {
+		"type": "git",
+		"url": "Some-Url-Here"
+	},
+	"keywords": [
+		"package",
+		"file",
+		"unpack",
+		"extract",
+		"pop",
+		"bubble"
+	],
+	"main": "popfile.js"
+}

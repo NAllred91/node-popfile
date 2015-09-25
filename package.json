@@ -1,5 +1,5 @@
 {
-    "name": "popfile",
+    "name": "node-popfile",
     "description": "Implementations for \"popping\" and \"bubbling\" .pop files",
     "author": "Nick Allred <nallred91@gmail.com>",
         "repository": {

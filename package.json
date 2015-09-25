@@ -1,18 +1,23 @@
 {
-    "name": "node-popfile",
-    "description": "Implementations for \"popping\" and \"bubbling\" .pop files",
-    "author": "Nick Allred <nallred91@gmail.com>",
-        "repository": {
-        "type": "git",
-        "url": "https://github.com/NAllred91/node-popfile"
-    },
-    "keywords": [
-        "package",
-        "file",
-        "unpack",
-        "extract",
-        "pop",
-        "bubble"
-    ],
-    "main": "popfile.js"
+  "name": "node-popfile",
+  "description": "Implementations for \"popping\" and \"bubbling\" .pop files",
+  "author": "Nick Allred <nallred91@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NAllred91/node-popfile"
+  },
+  "keywords": [
+    "package",
+    "file",
+    "unpack",
+    "extract",
+    "pop",
+    "bubble"
+  ],
+  "main": "popfile.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "mkdirp": "^0.5.1",
+    "underscore": "^1.8.3"
+  }
 }
